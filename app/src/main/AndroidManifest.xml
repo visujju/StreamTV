@@ -17,7 +17,7 @@
         android:icon="@android:drawable/ic_media_play"
         android:label="@string/app_name"
         android:banner="@drawable/tv_banner"
-        android:roundIcon="@android:drawable/ic_media_play""
+        android:roundIcon="@android:drawable/ic_media_play"
         android:supportsRtl="true"
         android:theme="@style/Theme.StreamTV"
         android:usesCleartextTraffic="true">
